@@ -1,0 +1,7 @@
+{
+  "name": "spacing-classes",
+  "main": "index.scss",
+  "version": "0.0.1",
+  "dependencies": {} ,
+  "files": ["index.scss"]
+}
