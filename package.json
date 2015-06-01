@@ -1,0 +1,9 @@
+{
+  "name": "@nib-styles/spacing-classes",
+  "version": "0.1.0",
+  "main": "index.scss",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-styles/spacing-classes.git"
+  }
+}
